@@ -3,3 +3,6 @@
 
 een verandering: - vorige lijn
 een verandering: + nieuwe lijn
+
+
+een verandering: + nog een nieuwe lijn, op rij 8
